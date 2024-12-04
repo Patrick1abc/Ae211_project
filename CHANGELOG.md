@@ -4,6 +4,7 @@
 
 ### 2024-11-1 
  **Note:** the User interact with the program through the `Command Window`
+ 
  **Updating Program:**  Sucessfully running the program translating from English to Morse  
  **Error:** Can not translate from Morse to English ( the program can not understand the Morese code that the user put it in)
 ### 2024-08-03
