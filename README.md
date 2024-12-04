@@ -1,9 +1,6 @@
 # Ae211_project
 
-# AE211_Final project
-
-Translator between Morse and English
-
+# **AE211 Final project**
 
 # **MORSE & ENGLISH TRANSLATOR**
 
@@ -12,7 +9,7 @@ Translator between Morse and English
 
 ## Overview
 
-The **MORSE & ENGLISH TRANSLATOR** is a  individual project helps the people Translating between english and morse. The user type english or morse either into the program and the program will release the results as the file name " The results".   
+The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates text between English and Morse code. Users can input English or Morse code, and the program provides the translation. The results are saved in a log file named "The Result.log".  
 
 ### Table of Contents
 - [Features](#features)
@@ -23,29 +20,20 @@ The **MORSE & ENGLISH TRANSLATOR** is a  individual project helps the people Tra
 
 ## Features
 
-- Translating from english to morse and reverse.
-- Getting the results immediately .
-- Providing the file containing the code translated between english and morse.
+- **Bidirectional Translation**:Convert English text to Morse code and Morse code to English.
+- **Immediate Output**:Results are displayed in the MATLAB Command Window.
+- **Log File Export:**:Saves all translations in a file named "The Result.log"
+- **Error Handling**:Unrecognized characters are replaced with a `?`
 
 ## Installation
-
-1. **Clone the repository**:
-    - [GITHUB CLONE AE211_PROJECT](https://github.com/Patrick1abc/Ae211_project.git)
-2. **System Requirements**:
+1. **System Requirements**:
     - **Operating System**: Windows 2020 or Later (ensure your system is fully updated).
     - **MATLAB**: Make sure MATLAB is installed and updated to the latest version.
-
-3. **Install Dependencies**:
-    - Run the following command to install any necessary libraries or dependencies:
-    ```bash
-    sudo apt-get install <dependencies>
-    ```
-
-4. **Run the Project**:
-    - Navigate to the project directory and execute the `main.py` script to start the calculator:
-    ```bash
-    python3 main.py
-    ```
+2. **Clone the Repository**:
+    - [git Clone AE211_PROJECT](https://github.com/Patrick1abc/Ae211_project.git)
+3. **Add Files to MATLAB Path**:
+    - Run the following command to install any necessary libraries or dependencies: Following the git hub clone
+    
 
 ## Usage
 
