@@ -3,10 +3,9 @@
 ### Created: 2024-11-1
 
 ### 2024-11-1 
- **Note:** the User interact with the program through the `Command Window`
- 
- **Updating Program:**  Sucessfully running the program translating from English to Morse  
- **Error:** Can not translate from Morse to English ( the program can not understand the Morese code that the user put it in)
+ **Note:** the User interact with the program through the `Command Window`.
+ **Updating Program:**  Sucessfully running the program translating from English to Morse.
+ **Error:** Can not translate from Morse to English ( the program can not understand the Morese code that the user put it in).
 ### 2024-08-03
  **Function:** it does not have the function to extract the file containing the result.
  **Performance:** Working on finding a way to translate between English and Morse, especially Morse to English.
