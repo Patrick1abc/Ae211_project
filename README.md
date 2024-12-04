@@ -22,7 +22,7 @@ The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates tex
 
 - **Bidirectional Translation**:Convert English text to Morse code and Morse code to English.
 - **Immediate Output**:Results are displayed in the MATLAB Command Window.
-- **Log File Export:**:Saves all translations in a file named "The Result.log"
+- **Log File Export**:Saves all translations in a file named "The Result.log"
 - **Error Handling**:Unrecognized characters are replaced with a `?`
 
 ## Installation
@@ -37,9 +37,19 @@ The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates tex
 
 ## Usage
 
-To use the Rocket Thrust Calculator, simply run the following command in the project directory by using MATLAB:
+1. **Run the Main script**
+- Open MATLAB and execute the following command to star the translator
+   ```bash
+    matlab
+    Morse_Translator
+    ```
+2. **Enter Input**
 
-- [Cacualting Program](https://github.com/Patrick1abc/Paul-Nguyen.git)
+- Provide English or Morse code text when prompted in the command window
+- For the Morse input, use space between letters and slashes(`/`) between words.
+3. **View Results**
+- Translations are displayed in the MATLAB Command Window.
+- Results are also saved in the "**The Result.log**" file.
 
 The code and instruction are provided throught link "Cacualting Program by using Matlab".
 
