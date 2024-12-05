@@ -1,27 +1,38 @@
 # Changelog.md
+## AE211_Final Project
 ## Creator: P. Nguyen
 ### Created: 2024-11-1
 
 ### 2024-11-1 
  **Note:** the User interact with the program through the `Command Window`.
+
  **Updating Program:**  Sucessfully running the program translating from English to Morse.
+ 
  **Error:** Can not translate from Morse to English ( the program can not understand the Morese code that the user put it in).
-### 2024-08-03
+#### 2024-11-6 
  **Function:** it does not have the function to extract the file containing the result.
- **Performance:** Working on finding a way to translate between English and Morse, especially Morse to English.
+ 
+ **Performance:** Working on finding a way to translate both English and Morse easier, especially Morse to English( it seams the program works only on English to Morse). 
+ 
+ **Updating:** Making a new file which can attach with the file `Morse_translator`, it helps the program understand the morse code putted by the user. Thus, 2 files `English_to_Morse` and `Morse_to_English` have the same functions but it different in order 
 
-### 2024-09-13 
- **Math Fix:** Corrected an error in the nozzle exit velocity calculation.
+### 2024-11-10
+ **Updating:** The program worked sucessfully 
 
-### 2024-09-26 
- **Math Fix:** Fixed an issue with the mass flow rate caculation as we used before.
+ **Errorr:** The code for extrat the file conataing the result did not work.
 
-### 2024-09-26 
- **Initial Release:** Basic thrust calculation and visualization functionality.
+
+### 2024-11-15 
+ **Updating:** Teacher helped me figured out the way to extract Result File and it has worked so far. 
+
+ **Verification:** Review all three files of the project, including their code structure, grammar, and functionality. 
+
+### 2024-11-1 
+ **Submitting day:** Submit the project and having small discussion with partner's projects
 
 ------------
 
 
 
-- **GITHUB ACCOUNT:** [Patrick135](http://github.com/Patrick1abc/Paul-Nguyen.git "GITHUB ACC")
-- **CONTACT:**- Email:[tanphuoc135](tanphuooc135@ku.edu)  - Number: 7858137641
+- **GITHUB ACCOUNT:** [PaulNguyen135](http://github.com/Patrick1abc/Paul-Nguyen.git "GITHUB ACC")
+- **CONTACT:**- Email:[tanphuoc135@ku.edu](tanphuooc135@ku.edu)  - Number: 7858137641
