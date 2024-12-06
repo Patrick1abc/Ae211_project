@@ -1,5 +1,5 @@
 
-# **AE211 Final project**
+# **AE211 Final Project**
 
 # **MORSE & ENGLISH TRANSLATOR**
 
