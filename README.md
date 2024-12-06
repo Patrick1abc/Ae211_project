@@ -11,12 +11,8 @@
 The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates text between English and Morse code. Users can input English or Morse code, and the program provides the translation. The results are saved in a log file named "The Result.log".  
 
 ### Table of Contents
-- [**AE211 Final project**](#ae211-final-project)
-- [**MORSE \& ENGLISH TRANSLATOR**](#morse--english-translator)
-  - [Creator: P. Nguyen](#creator-p-nguyen)
-    - [Created: 2024-11-1](#created-2024-11-1)
   - [Overview](#overview)
-    - [Table of Contents](#table-of-contents)
+ - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
