@@ -1,6 +1,6 @@
 # Changelog.md
 ## AE211_Final Project
-## Creator: P. Nguyen
+## Creator & Editor: P. Nguyen
 ### Created: 2024-11-1
 
 ### 2024-11-1 
