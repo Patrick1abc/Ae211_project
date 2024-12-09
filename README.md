@@ -12,7 +12,7 @@ The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates tex
 
 ### Table of Contents
   - [Overview](#overview)
- - [Table of Contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -43,6 +43,7 @@ The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates tex
 - Open 3 files `english_to_morse`; `morse_to_english` and `morse_translator` respectively on MATLAB.
   
 - Run the translator promgram by running the file `morse_translator`or you can use the command `run morse_translator.m` in **command window** 
+- Note: If the programe ask you '**Change path**'or '**Add path**', chose the option '**Add path**' so the code can run perfectly
 3. **Enter Input**
 - Provide English or Morse code text when prompted in the command window.
 - For the Morse input, use space between letters and slashes(`/`) between words.
@@ -54,7 +55,7 @@ The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates tex
 
 Contributions are welcome! If you'd like to improve this project, please follow these steps:
 
-1. Fork the repository.
+1. Fork the repository in my Github Account.
 2. Create a new branch:
     ```bash
     git checkout -b feature-name
