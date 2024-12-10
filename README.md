@@ -1,4 +1,3 @@
-
 # **AE211 Final Project**
 
 # **MORSE & ENGLISH TRANSLATOR**
@@ -8,7 +7,7 @@
 
 ## Overview
 
-The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates text between English and Morse code. Users can input English or Morse code, and the program provides the translation. The results are saved in a log file named "The Result.log".  
+The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates text between English and Morse code. Users can input English or Morse code, and the program provides the translation. The results are saved in a log file named **`The_Result.log`**.  
 
 ### Table of Contents
   - [Overview](#overview)
@@ -21,46 +20,57 @@ The **MORSE & ENGLISH TRANSLATOR** is a MATLAB-based project that translates tex
 
 ## Features
 
-- **Bidirectional Translation**:Convert English text to Morse code and Morse code to English.
-- **Immediate Output**:Results are displayed in the MATLAB Command Window.
-- **Log File Export**:Saves all translations in a file named "The Result.log".
-- **Error Handling**:Unrecognized characters are replaced with a `?`.
+- **Bidirectional Translation**: Converts English text to Morse code and Morse code to English.
+- **Immediate Output**: Results are displayed in the MATLAB Command Window.
+- **Log File Export**: Saves all translations in a file named **`The_Result.log`**.
+- **Error Handling**: Unrecognized characters are replaced with a `?`.
 
 ## Installation
 1. **System Requirements**:
-    - **Operating System**: Windows 2020 or Later (ensure your system is fully updated).
-    - **MATLAB**: Make sure MATLAB is installed and updated to the latest version.
+    - **Operating System**: Windows 10 or later.
+    - **MATLAB**: Ensure MATLAB is installed and updated to the latest version.
 2. **Clone the Repository**:
-    - [git Clone AE211_PROJECT](https://github.com/Patrick1abc/Ae211_project.git)
+    ```bash
+    git clone https://github.com/Patrick1abc/Ae211_project.git
+    ```
 3. **Add Files to MATLAB Path**:
-    - Run the following command to install any necessary libraries or dependencies: Following README.md 
-    
+    - Follow the instructions in the repository's **README.md** file to add the files to your MATLAB path.
+4. **Install Dependencies**:
+    - Run the required commands to ensure all necessary libraries or dependencies are installed.
 
-## Usage 
-1. **Download the script**
-- Get 3 files  from the github account released on the Installation including `english_to_morse`; `morse_to_english` and `morse_translator` 
-2. **Run the Main script**
-- Open 3 files `english_to_morse`; `morse_to_english` and `morse_translator` respectively on MATLAB.
-  
-- Run the translator promgram by running the file `morse_translator`or you can use the command `run morse_translator.m` in **command window** 
-- Note: If the programe ask you '**Change path**'or '**Add path**', chose the option '**Add path**' so the code can run perfectly
-3. **Enter Input**
-- Provide English or Morse code text when prompted in the command window.
-- For the Morse input, use space between letters and slashes(`/`) between words.
-4. **View Results**
-- Translations are displayed in the MATLAB Command Window.
-- Results are also saved in the "**The Result.log**" file.
-  
+## Usage
+1. **Download the Script**:
+    - Download the three required files from the repository:
+        - `english_to_morse.m`
+        - `morse_to_english.m`
+        - `morse_translator.m`
+2. **Run the Translator**:
+    - Open the files `english_to_morse.m`, `morse_to_english.m`, and `morse_translator.m` in MATLAB.
+    - Run the translator program by executing **`morse_translator.m`**, or use the following command in the MATLAB Command Window:
+        ```matlab
+        run morse_translator.m
+        ```
+    - If the program prompts you with "**Change Path**" or "**Add Path**," select "**Add Path**" to ensure proper execution.
+3. **Enter Input**:
+    - Provide English or Morse code text when prompted in the MATLAB Command Window.
+    - For Morse input, use spaces between letters and slashes (`/`) between words.
+4. **View Results**:
+    - Translations are displayed in the MATLAB Command Window.
+    - Results are also saved in the **`The_Result.log`** file.
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project, please follow these steps:
 
-1. Fork the repository in my Github Account.
+1. Fork the repository on GitHub.
 2. Create a new branch:
     ```bash
     git checkout -b feature-name
     ```
-3. Make your changes and commit them.
+3. Make your changes and commit them:
+    ```bash
+    git commit -m "Your descriptive commit message"
+    ```
 4. Push your changes to your branch:
     ```bash
     git push origin feature-name
@@ -70,8 +80,9 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You are free to redistribute and modify this software under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 or later.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+This program is distributed with the hope that it will be useful, but WITHOUT ANY WARRANTY, including the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](https://www.gnu.org/licenses/) for more details.
+
+If you did not receive a copy of the GNU General Public License with this program, you can find it [here](https://www.gnu.org/licenses/).
