@@ -1,45 +1,55 @@
-# Changelog.md
-## AE211_Final Project
-## Creator & Editor: P. Nguyen
-### Created: 2024-11-1
+# **Changelog.md**
 
-### 2024-11-1 
- **Note:** the User interact with the program through the `Command Window`.
+## **AE211 Final Project**
+### **Creator & Editor**: P. Nguyen
+### **Created**: 2024-11-1
 
- **Updating Program:**  Sucessfully running the program translating from English to Morse.
- 
- **Error:** Can not translate from Morse to English ( the program can not understand the Morese code that the user put it in).
-#### 2024-11-6 
- **Function:** it does not have the function to extract the file containing the result.
- 
- **Performance:** Working on finding a way to translate both English and Morse easier, especially Morse to English( it seams the program works only on English to Morse). 
- 
- **Updating:** Making a new file `morse_to_english` which can attach with the file `morse_translator`, it helps the program understand the morse code putted by the user. Totally, 2 files `english_to_morse` and `morse_to_English` have the same functions but it different in order.
+---
 
-### 2024-11-10
- **Updating:** The program worked sucessfully. 
+### **2024-11-1**
+- **Note**: Users interact with the program through the **Command Window**.
+- **Update**: Successfully implemented functionality to translate from English to Morse.
+- **Error**: The program could not translate from Morse to English (failed to interpret Morse code input from users).
 
- **Errorr:** The code for extract the file conataing the result did not work.
+---
 
-### 2024-11-25
-**Updating:** The code has been rearranged, making it better looking and helping the user and client understand it easily.  
+### **2024-11-6**
+- **Functionality**: The program lacked the ability to export the result to a file.
+- **Performance**: Worked on improving translation from Morse to English (currently, the program only handled English-to-Morse translation effectively).
+- **Update**: Created a new file, `morse_to_english`, to complement `morse_translator`. This update improved the program's ability to interpret user input in Morse code.
+  - Both `english_to_morse` and `morse_to_english` now handle similar functions but with differing purposes and workflows.
 
-**Note:** User should open all of 3 files so that the program can work easily.
+---
 
-### 2024-12-1 
- **Updating:** Teacher helped me figured out the way to extract Result File and it has worked so far. 
+### **2024-11-10**
+- **Update**: Program successfully handled translations in both directions (English to Morse and Morse to English).
+- **Error**: The code for exporting the results to a file did not work as expected.
 
- **Verification:** Review all three files of the project, including their code structure, grammar, and functionality. 
+---
 
-### 2024-12-6 
- **Submitting day:** Submit the project and having small discussion with partner's projects.
+### **2024-11-25**
+- **Update**: Refactored the code for improved readability and structure, making it easier for users and clients to understand.
+- **Note**: Users must open all three files for the program to work correctly.
 
--------------------------------------------
+---
 
+### **2024-12-1**
+- **Update**: With the teacher's assistance, successfully implemented functionality to extract the result to a file named **`The_Result.log`**.
+- **Verification**: Reviewed all three project files for proper code structure, grammar, and functionality.
 
+---
 
-- **GITHUB ACCOUNT:** [PaulNguyen135][github acc]
-- **CONTACT:**- Email: [tanphuoc135@ku.edu][contact]  - Number: 7858137641
+### **2024-12-6**
+- **Submission**: Submitted the final project and participated in discussions about peers' projects.
 
-[github acc]: https://github.com/Patrick1abc/Ae211_project "GITHUB ACC"
-[contact]: tanphuooc135@ku.edu
+---
+### **2024-12-11**
+- **Submission**: Submitting the final project on Canvas including the code, READEME, and CHANGELOG File. It setted up as the Archievd.zip.
+
+## **Contact Information**
+- **GitHub Account**: [PaulNguyen135][github]
+- **Email**: [tanphuoc135@ku.edu][contact]
+- **Phone**: +1 785-813-7641
+
+[github]: https://github.com/Patrick1abc/Ae211_project "GitHub Account"
+[contact]: mailto:tanphuoc135@ku.edu "Email"
